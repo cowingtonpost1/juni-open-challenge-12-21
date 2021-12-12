@@ -1,0 +1,18 @@
+{
+  "servo_pin": 17,
+  "servo_states": {
+    "0": 0,
+    "1": 25.5,
+    "2": 48,
+    "3": 70.5,
+    "4": 93,
+    "5": 115.5,
+    "6": 138,
+    "7": 160.5,
+    "8": 180
+  },
+  "max_treats": 6,
+  "treat_state_filename": "treats_inserted",
+  "noise_file": "kaya_whistle.wav",
+  "server_url": "http://192.168.4.66:1234/"
+}
